@@ -3,7 +3,7 @@ Site para mobile desenvolvido durante o curso técnico em informática no Instit
 
 O site é completo e conta com desde a possibilidade do administrador realizar a inserção de produtos no site e alterá-los até o login de usuários e compras através do carrinho.
 
-Linguagens: Php, Html, Css, JavaScript
+Linguagens: PHP, HTML, CSS, JavaScript
 
 Banco de Dados: MySql
 
