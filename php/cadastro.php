@@ -34,7 +34,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title> Cadastre-se </title>
-		<link rel="stylesheet" type="text/css" href="estilo.css">
+		<link rel="stylesheet" type="text/css" href="https://christopherhauschild.github.io/mobile_website.github.io/estilo.css">
 		<link rel="shortcut icon" type="image/x-icon" href="https://christopherhauschild.github.io/mobile_website.github.io/design/logo.png">
 		<script type="text/javascript" src="mascara.js"></script>
 		<script language="JavaScript" type="text/javascript" src="cidades-estados-1.4-utf8.js"></script>
