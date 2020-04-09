@@ -1,11 +1,10 @@
-
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
 	<title> Picturae </title>
-	<link rel="stylesheet" type="text/css" href="estilo.css">
-	<link rel="shortcut icon" type="image/x-icon" href="design/logo.png">
+	<link rel="stylesheet" type="text/css" href="https://christopherhauschild.github.io/mobile_website.github.io/estilo.css">
+	<link rel="shortcut icon" type="image/x-icon" href="https://christopherhauschild.github.io/mobile_website.github.io/design/logo.png">
 	<!-- Precisa fazer escala correta no mobile -->
 	<meta name="viewport" content="widht=device-widht, initial-scale=1.0">
 
@@ -34,10 +33,10 @@
 							<label class="iconeMenuCategorias"for="chkMenuCategorias"><p style="color: #eb008b">NOSSAS CATEGORIAS</p></label>
 								<div class="barraMenuCategorias">
 									<nav>
-										<p><a href="produtos.php?cat=Abstrato">ABSTRATO</a></p>
-										<p><a href="produtos.php?cat=Natureza">NATUREZA</a></p>
-										<p><a href="produtos.php?cat=Urban"> URBAN</a></p>
-										<p><a href="produtos.php?cat=Mundo"> MUNDO</a></p>
+										<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?cat=Abstrato">ABSTRATO</a></p>
+										<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?cat=Natureza">NATUREZA</a></p>
+										<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?cat=Urban"> URBAN</a></p>
+										<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?cat=Mundo"> MUNDO</a></p>
 									</nav>
 								</div>
 							</div>
@@ -46,11 +45,11 @@
 							<label class="iconeMenuColecoes"for="chkMenuColecoes"><p>COLEÇÕES</p></label>
 								<div class="barraMenuColecoes">
 									<nav>
-										<p><a href="login.php">CIDADES</a></p>
-										<p><a href="carrinho.php">DAY AND NIGHT</a></p>
-										<p><a href="produtos.php">#GIRLPOWER</a></p>
-										<p><a href="produtos.php"> LIFE A HOLIC</a></p>
-										<p><a href="produtos.php"> URBANO</a></p>
+										<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/login.php">CIDADES</a></p>
+										<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/carrinho.php">DAY AND NIGHT</a></p>
+										<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php">#GIRLPOWER</a></p>
+										<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php"> LIFE A HOLIC</a></p>
+										<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php"> URBANO</a></p>
 									</nav>
 								</div>
 							</div>
@@ -59,9 +58,9 @@
 							<label class="iconeMenuAcessorios"for="chkMenuAcessorios"><p>ACESSÓRIOS</p></label>
 								<div class="barraMenuAcessorios">
 									<nav>
-										<p><a href="login.php">PULSEIRAS & COLARES</a></p>
-										<p><a href="carrinho.php">ALMOFADAS</a></p>
-										<p><a href="produtos.php">CAMISETAS</a></p>
+										<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/login.php">PULSEIRAS & COLARES</a></p>
+										<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/carrinho.php">ALMOFADAS</a></p>
+										<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php">CAMISETAS</a></p>
 									</nav>
 								</div>
 							</div>
@@ -78,7 +77,7 @@
 					<a href="carrinho.php"><img alt="icone de um carrinho"src="design/carrinho.png"></a></div>
 				</div>
 
-				<form action="produtos.php" method="GET">
+				<form action="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php" method="GET">
 				<div class="cabecalhoL2">
 					<input type="text" name="busca" style="font-size: 96%; font-family: Roboto Light; color: black; margin-left: 12px;" placeholder="O que você procura?...">
 					<input type="submit" id="btnBuscar">
@@ -88,7 +87,7 @@
 		</div>
 
 		<div class="inicio">
-			<a href="index.php"><img alt="ofertas black friday" src="design/inicio.png"></a>
+			<a href="https://christopherhauschild.github.io/mobile_website.github.io/index.php"><img alt="ofertas black friday" src="design/inicio.png"></a>
 		</div>
 
 		<ul class="slider">
@@ -127,7 +126,7 @@
 					echo "
 				<div class='categoria-destaque-produto'>
 				<div>
-					<a href='produtos.php?cat=$categ_descricao'><img src='categorias/$categ_cod.png'></a>
+					<a href='https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?cat=$categ_descricao'><img src='categorias/$categ_cod.png'></a>
 				</div>
 				<div>
 				<p class='nome-categoria'> $categ_descricao </p>
@@ -163,7 +162,7 @@
 					echo "
 				<div class='top-arts-produto'>
 				<div>
-					<a href='quadro.php?qdr=$prod_cod'><img src='produtos/$prod_cod.png'></a>
+					<a href='https://christopherhauschild.github.io/mobile_website.github.io/quadro.php?qdr=$prod_cod'><img src='produtos/$prod_cod.png'></a>
 				</div>
 				<div>
 				<p class='nome-produto'> $prod_descricao </p>
@@ -179,7 +178,7 @@
 		</div>
 
 		<div class="anuncio-home">
-			<a href="produtos.php"><img alt="anuncio feira brasileira" src="design/anuncio1.png"></a>
+			<a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php"><img alt="anuncio feira brasileira" src="design/anuncio1.png"></a>
 		</div>
 
 		<div class="titulo-artistas-premium">
@@ -190,22 +189,22 @@
 
 			<div class="artistas-premium-quadro">
 				<div>
-					<a href="produtos.php?art=Alexander Vogler"><img src="design/art1.png">
+					<a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?art=Alexander Vogler"><img src="design/art1.png">
 				</div></a>
 			</div>
 			<div class="artistas-premium-quadro">
 				<div>
-					<a href="produtos.php?art=Kllun Ab"><img src="design/art2.png">
+					<a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?art=Kllun Ab"><img src="design/art2.png">
 				</div></a>
 			</div>
 			<div class="artistas-premium-quadro">
 				<div>
-					<a href="produtos.php?art=Aguilar Alcenza"><img src="design/art3.png">
+					<a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?art=Aguilar Alcenza"><img src="design/art3.png">
 				</div></a>
 			</div>
 			<div class="artistas-premium-quadro">
 				<div>
-					<a href="produtos.php?art=Kristoff Blei"><img src="design/art4.png">
+					<a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?art=Kristoff Blei"><img src="design/art4.png">
 				</div></a>
 			</div>
 		</div>
