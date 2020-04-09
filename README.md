@@ -7,3 +7,5 @@ Linguagens: PHP, HTML, CSS, JavaScript
 Banco de Dados: MySql
 
 Ferramentas: PhpMyAdmin, Workbench, Corel Drawn X7, Photoshop CS6, GIMP.
+
+OBS: Seguindo instruções dos docentes, o site estáem extensão php, portanto para rodar local necessita-se do XAMPP
