@@ -64,17 +64,17 @@
 									</nav>
 								</div>
 							</div>
-							<p><a href="centraldeAtendimento.php">CONTATE-NOS</a></p>
-							<p><a href="index.php"> PÁGINA INICIAL</a></p>
+							<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/centraldeAtendimento.php">CONTATE-NOS</a></p>
+							<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/index.php"> PÁGINA INICIAL</a></p>
 						</nav>
 						</div>
 
 					</div>
 					<div class="logo"><a href="index.php"><img alt="logo escrito PICTURAE" src="design/logotipo.png"></a></div>
 					<div class="favoritos">
-					<a href="cadastro.php"><img alt="icone de um usuario" src="design/favoritos.png"></a></div>
+					<a href="https://christopherhauschild.github.io/mobile_website.github.io/cadastro.php"><img alt="icone de um usuario" src="design/favoritos.png"></a></div>
 					<div class="carrinho">
-					<a href="carrinho.php"><img alt="icone de um carrinho"src="design/carrinho.png"></a></div>
+					<a href="https://christopherhauschild.github.io/mobile_website.github.io/carrinho.php"><img alt="icone de um carrinho"src="design/carrinho.png"></a></div>
 				</div>
 
 				<form action="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php" method="GET">
@@ -268,7 +268,7 @@
 			</div>
 
 			<div class="rodape-mapa">
-			<a href="index.php"><img alt="endereço loja" src="design/mapa.png"></a>
+			<a href="https://christopherhauschild.github.io/mobile_website.github.io/index.php"><img alt="endereço loja" src="design/mapa.png"></a>
 			</div>
 
 			<div class="rodape-copyright">
