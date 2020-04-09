@@ -32,8 +32,8 @@ mysqli_close($conexao);
     echo "<td>".$dados['sobrenome']."</td>";
 	echo "<td>".$dados['senha']."</td>";
 	echo "<td>".$dados['email']."</td>";
-	echo " <td> <a href='usuario-edita.php?id={$dados['id']}'>Editar</a>  ";
-	echo "      <a href='usuario-deleta-ok.php?id={$dados['id']}'>Deletar</a>  </td>";
+	echo " <td> <a href='https://christopherhauschild.github.io/mobile_website.github.io/usuario-edita.php?id={$dados['id']}'>Editar</a>  ";
+	echo "      <a href='https://christopherhauschild.github.io/mobile_website.github.io/usuario-deleta-ok.php?id={$dados['id']}'>Deletar</a>  </td>";
 	echo "</tr>";
 }
 ?>
@@ -41,7 +41,7 @@ mysqli_close($conexao);
 
 
 <br>
-<a href="cadastroNovo.php">Cadastrar Usuário</a>
+<a href="https://christopherhauschild.github.io/mobile_website.github.io/cadastroNovo.php">Cadastrar Usuário</a>
 
     </body>
 </html>
