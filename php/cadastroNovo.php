@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title> Cadastre-se </title>
-		<link rel="stylesheet" type="text/css" href="estilo.css">
-		<link rel="shortcut icon" type="image/x-icon" href="design/logo.png">
+		<link rel="stylesheet" type="text/css" href="https://christopherhauschild.github.io/mobile_website.github.io/estilo.css">
+		<link rel="shortcut icon" type="image/x-icon" href="https://christopherhauschild.github.io/mobile_website.github.io/design/logo.png">
 		<script type="text/javascript" src="mascara.js"></script>
 		<script language="JavaScript" type="text/javascript" src="cidades-estados-1.4-utf8.js"></script>
 		<!-- Precisa fazer escala correta no mobile -->
@@ -50,10 +50,10 @@
 								<label class="iconeMenuCategorias"for="chkMenuCategorias"><p style="color: #eb008b">NOSSAS CATEGORIAS</p></label>
 									<div class="barraMenuCategorias">
 										<nav>
-											<p><a href="produtos.php?cat=Abstrato">ABSTRATO</a></p>
-											<p><a href="produtos.php?cat=Natureza">NATUREZA</a></p>
-											<p><a href="produtos.php?cat=Urban"> URBAN</a></p>
-											<p><a href="produtos.php?cat=Mundo"> MUNDO</a></p>
+											<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?cat=Abstrato">ABSTRATO</a></p>
+											<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?cat=Natureza">NATUREZA</a></p>
+											<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?cat=Urban"> URBAN</a></p>
+											<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php?cat=Mundo"> MUNDO</a></p>
 										</nav>
 									</div>
 								</div>
@@ -62,11 +62,11 @@
 								<label class="iconeMenuColecoes"for="chkMenuColecoes"><p>COLEÇÕES</p></label>
 									<div class="barraMenuColecoes">
 										<nav>
-											<p><a href="login.php">CIDADES</a></p>
-											<p><a href="carrinho.php">DAY AND NIGHT</a></p>
-											<p><a href="produtos.php">#GIRLPOWER</a></p>
-											<p><a href="produtos.php"> LIFE A HOLIC</a></p>
-											<p><a href="produtos.php"> URBANO</a></p>
+											<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/login.php">CIDADES</a></p>
+											<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/carrinho.php">DAY AND NIGHT</a></p>
+											<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php">#GIRLPOWER</a></p>
+											<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php"> LIFE A HOLIC</a></p>
+											<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php"> URBANO</a></p>
 										</nav>
 									</div>
 								</div>
@@ -75,26 +75,26 @@
 								<label class="iconeMenuAcessorios"for="chkMenuAcessorios"><p>ACESSÓRIOS</p></label>
 									<div class="barraMenuAcessorios">
 										<nav>
-											<p><a href="login.php">PULSEIRAS & COLARES</a></p>
-											<p><a href="carrinho.php">ALMOFADAS</a></p>
-											<p><a href="produtos.php">CAMISETAS</a></p>
+											<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/login.php">PULSEIRAS & COLARES</a></p>
+											<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/carrinho.php">ALMOFADAS</a></p>
+											<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php">CAMISETAS</a></p>
 										</nav>
 									</div>
 								</div>
-								<p><a href="centraldeAtendimento.php">CONTATE-NOS</a></p>
-								<p><a href="index.php"> PÁGINA INICIAL</a></p>
+								<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/centraldeAtendimento.php">CONTATE-NOS</a></p>
+								<p><a href="https://christopherhauschild.github.io/mobile_website.github.io/index.php"> PÁGINA INICIAL</a></p>
 							</nav>
 							</div>
 
 						</div>
 						<div class="logo"><a href="index.php"><img alt="logo escrito PICTURAE" src="design/logotipo.png"></a></div>
 						<div class="favoritos">
-						<a href="cadastro.php"><img alt="icone de um usuario" src="design/favoritos.png"></a></div>
+						<a href="https://christopherhauschild.github.io/mobile_website.github.io/cadastro.php"><img alt="icone de um usuario" src="design/favoritos.png"></a></div>
 						<div class="carrinho">
-						<a href="carrinho.php"><img alt="icone de um carrinho"src="design/carrinho.png"></a></div>
+						<a href="https://christopherhauschild.github.io/mobile_website.github.io/carrinho.php"><img alt="icone de um carrinho"src="design/carrinho.png"></a></div>
 					</div>
 
-					<form action="produtos.php" method="GET">
+					<form action="https://christopherhauschild.github.io/mobile_website.github.io/produtos.php" method="GET">
 					<div class="cabecalhoL2">
 						<input type="text" name="busca" style="font-size: 96%; font-family: Roboto Light; color: black; margin-left: 12px;" placeholder="O que você procura?...">
 						<input type="submit" id="btnBuscar">
@@ -232,7 +232,7 @@
 				</div>
 
 				<div class="rodape-mapa">
-				<a href="index.php"><img alt="endereço loja" src="design/mapa.png"></a>
+				<a href="https://christopherhauschild.github.io/mobile_website.github.io/index.php"><img alt="endereço loja" src="design/mapa.png"></a>
 				</div>
 
 				<div class="rodape-copyright">
