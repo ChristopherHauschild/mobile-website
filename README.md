@@ -3,7 +3,7 @@
 O curso técnico integrado em Informática tem duração de 04 anos. Iniciei o mesmo em 2017.
 <hr>
 
-# Programas em Java - IFSUL :brazil:
+# Site Mobile - IFSUL :brazil:
 
 O presente site para mobile foi desenvolvido durante o curso técnico em informática no Instituto Federal de educação, ciência e tecnologia Sul-rio-grandense - campus Venâncio Aires, e conta com um frontend e backend completos, desde a interface visual até procedimentos como o CRUD e a inserção de pedidos no carrinho, intregrado ao banco de dados.
 
