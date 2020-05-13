@@ -38,7 +38,7 @@ O presente site para mobile foi desenvolvido durante o curso técnico em inform�
 
 ### Maiores informações: :pencil:
 
-Além das disciplinas utilizadas para o desenvolvimentos destes programas, o IFSUL oferece uma formação na área de Redes e Arquitetura de Computadores, e desenvolvimento de programas completos utilizando o Java. 
+Além das disciplinas utilizadas para o desenvolvimentos deste site, o IFSUL oferece uma formação na área de Redes e Arquitetura de Computadores, e desenvolvimento de programas completos utilizando o Java. 
 
 As atividades desenvolvidas com as disciplinas de Lógica de Programação, Linguagem de Programação e Banco de Dados podem ser encontradas neste <a href="https://github.com/ChristopherHauschild/programas-java-curso-tecnico">repositório</a>.
 
